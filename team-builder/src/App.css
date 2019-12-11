@@ -38,7 +38,13 @@
 }
 
 .team-list {
-  
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team {
+
+  width: 50%;
   border: 1px red solid;
-  width: 250px;
 }
